@@ -5,9 +5,7 @@
 - **Description:** Kisi is one of the major disruptive players in the access control industry, bringing a fully cloud based approach to managing and monitoring physical security for offices and many more highly frequented spaces.
 
 ## Prerequisites
-Navigate to the [Kisi Web App](https://kisi-web-production-325414--qa-test-c8f0ybu9.web.app/users/sign_in) with Administrator credentials to gain access. Under Organization Account, enter the domain: test-task. Then use the following credentials to log in:
-`Email: test.account+6@kisi.io
-Password: d168eeb4e410`
+Navigate to the [Kisi Web App](https://kisi-web-production-325414--qa-test-c8f0ybu9.web.app/users/sign_in)
 
 ## To go to 
 * Users Settings Page - Login -> Users (in side navigation) -> Clicking on user row opens that user’s setting page.
